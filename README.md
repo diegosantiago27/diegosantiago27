@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working from area of T.I
-- 🌱 I’m currently learning JavaScrip - html - css.
+- 🌱 I am currently working with Java Spring Boot - TypeScript. Angular - Database PostgreSQL.
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=diegosantiago27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
